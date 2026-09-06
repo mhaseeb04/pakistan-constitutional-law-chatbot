@@ -74,4 +74,3 @@ Constitutional-Law-Chatbot/
 
 ## 👨‍💻 Author
 **Muhammad Haseeb**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/khizar-ishtiaq-716518315)
